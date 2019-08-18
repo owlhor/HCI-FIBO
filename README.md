@@ -14,7 +14,7 @@ http://www.fibo.kmutt.ac.th/fiboweb2015/hci-lab/
 - [โครงการต่าง ๆ](#โครงการต่าง-ๆ)
   - [2BKMUTT](#2BKMUTT)
   - [นักเรียน/นักศึกษาที่ฝึกงาน](#นักเรียนนักศึกษาที่ฝึกงาน)
-- [คลังความรู้](#คลังความรู้)
+- [คลังความรู้](https://github.com/fibohcilab/HCI-Learning)
 
 # สมาชิก
 Coming Soon ... 
@@ -35,8 +35,3 @@ Coming Soon ...
 - [ARDobot](https://github.com/fibohcilab/internship-2019-ardobot)
 ### 2018
 ### 2017
-
-# คลังความรู้
-- [Socket](learning/socket)
-- [MQTT](learning/mqtt)
-- [Unity](learning/unity)
