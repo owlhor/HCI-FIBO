@@ -25,6 +25,7 @@ Coming Soon ...
 # โครงการต่าง ๆ
 ## 2BKMUTT
 ### 2019
+- [Design and Development of Virtual Robot Exhibition using Virtual Reality Technology](https://github.com/fibohcilab/internship-2019-Design-and-Development-of-Virtual-Robot-Exhibition-using-Virtual-Reality-Technology)
 - [Robot Gripper for Detecting Object Using Flex Sensor](https://github.com/fibohcilab/2bkmutt-2019-Robot-Gripper-for-Detecting-Object-Using-Flex-Sensor)
 - [การพัฒนาระบบอัตโนมัติสำหรับการนำเสนอผลงานภายในห้องวิจัย Human-Computer Interface](https://github.com/fibohcilab/2bkmutt-2019--Human-Computer-Interface)
 - [การพัฒนาโลกเสมือนผสมความจริงควบคุมอุปกรณ์ผ่าน IoT](https://github.com/fibohcilab/2bkmutt-2019--IoT)
@@ -32,6 +33,6 @@ Coming Soon ...
 ### 2017
 ## นักเรียน/นักศึกษาที่ฝึกงาน
 ### 2019
-- [ARDobot](https://github.com/fibohcilab/internship-2019-ardobot)
+- [ARDobot](https://github.com/fibohcilab/internship-2019-ARDobot)
 ### 2018
 ### 2017
