@@ -8,6 +8,9 @@ Human-Computer Interface Lab (HCI Lab) contributes on development of advanced in
 ## Official Website
 http://www.fibo.kmutt.ac.th/fiboweb2015/hci-lab/
 
+## Social Network Service
+https://www.facebook.com/HCI-Lab-FIBO-112352633545053/
+
 # สารบัญ
 - [สมาชิก](#สมาชิก)
 - [ผลงาน](#ผลงาน)
