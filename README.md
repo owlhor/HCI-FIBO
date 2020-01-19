@@ -18,7 +18,7 @@ https://www.facebook.com/HCI-Lab-FIBO-112352633545053/
 - [โครงการต่าง ๆ](#โครงการต่าง-ๆ)
   - [2BKMUTT](#2BKMUTT)
   - [นักเรียน/นักศึกษาที่ฝึกงาน](#นักเรียนนักศึกษาที่ฝึกงาน)
-  - [FIBO School Consotrium](#FIBO-School-Consortium)
+  - [FIBO School Consotrium : Robot Project](#FIBO-School-Consortium-:-Robot-Project)
 - [คลังความรู้](https://github.com/fibohcilab/HCI-Learning)
 
 
@@ -44,7 +44,8 @@ Coming Soon ...
 ### 2019
 - [ARDobot](https://github.com/fibohcilab/internship-2019-ARDobot)
 
-## FIBO School Consortium
+## FIBO School Consotrium : Robot Project
 
 ### 2019
-- 
+- VR Control Smart Device
+- Robotic arm
