@@ -23,19 +23,14 @@ https://www.facebook.com/HCI-Lab-FIBO-112352633545053/
 
 
 # สมาชิก
-
 Coming Soon ... 
-## 2019
-## 2018
-## 2017
-## 2016
 
 
 # ผลงาน
-
 Coming Soon ... 
-## Mixed Reality
-## Tele-3D Printing
+- Mixed Reality
+- Tele-3D Printing
+
 
 # โครงการต่าง ๆ
 
