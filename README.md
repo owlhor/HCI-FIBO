@@ -11,31 +11,40 @@ http://www.fibo.kmutt.ac.th/fiboweb2015/hci-lab/
 ## Social Network Service
 https://www.facebook.com/HCI-Lab-FIBO-112352633545053/
 
+
 # สารบัญ
 - [สมาชิก](#สมาชิก)
 - [ผลงาน](#ผลงาน)
 - [โครงการต่าง ๆ](#โครงการต่าง-ๆ)
   - [2BKMUTT](#2BKMUTT)
   - [นักเรียน/นักศึกษาที่ฝึกงาน](#นักเรียนนักศึกษาที่ฝึกงาน)
+  - [FIBO School Consotrium](#FIBO-School-Consortium)
 - [คลังความรู้](https://github.com/fibohcilab/HCI-Learning)
+
 
 # สมาชิก
 Coming Soon ... 
+
 
 # ผลงาน
 Coming Soon ... 
 
 # โครงการต่าง ๆ
+
 ## 2BKMUTT
+
 ### 2019
 - [Design and Development of Virtual Robot Exhibition using Virtual Reality Technology](https://github.com/fibohcilab/internship-2019-Design-and-Development-of-Virtual-Robot-Exhibition-using-Virtual-Reality-Technology)
 - [Robot Gripper for Detecting Object Using Flex Sensor](https://github.com/fibohcilab/2bkmutt-2019-Robot-Gripper-for-Detecting-Object-Using-Flex-Sensor)
 - [การพัฒนาระบบอัตโนมัติสำหรับการนำเสนอผลงานภายในห้องวิจัย Human-Computer Interface](https://github.com/fibohcilab/2bkmutt-2019--Human-Computer-Interface)
 - [การพัฒนาโลกเสมือนผสมความจริงควบคุมอุปกรณ์ผ่าน IoT](https://github.com/fibohcilab/2bkmutt-2019--IoT)
-### 2018
-### 2017
+
 ## นักเรียน/นักศึกษาที่ฝึกงาน
+
 ### 2019
 - [ARDobot](https://github.com/fibohcilab/internship-2019-ARDobot)
-### 2018
-### 2017
+
+## FIBO School Consortium
+
+### 2019
+- 
